@@ -56,7 +56,7 @@ We will do (or start on)  "Apps with a backend" together. This requires that you
 
 For the rest of the day this is the plan:
 - If you have completed the exercises related to Futures/Callables from last week, just do the "All the fun" exercise if you have come to "love" React Native and have the time
-- If not, I will, as promised repeat the lecture related to Futures/Callables from 10.00 - 12.00
+- If not, I will as promised repeat the lecture related to Futures/Callables from 10.00 - 12.00. See what you need to read, and the exercises in the plan for last week.
 
 ## Friday - exercises
 TBD
