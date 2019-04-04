@@ -4,7 +4,7 @@
 
 ### What to do before this lesson
 - Hopefully you have all completed all the steps in this [small exercise](https://docs.google.com/document/d/1V03BdDyEvvoJ1ekpbV1LSX3p2NDFQJiz6OPKIrIuYDs/edit?usp=sharing) If not do it before this lesson
--[:book: Another small tutorial/guide (25 min.)](https://www.sitepoint.com/react-router-v4-complete-guide/), which will introduce you to React Router
+- [:book: Another small tutorial/guide (25 min.)](https://www.sitepoint.com/react-router-v4-complete-guide/), which will introduce you to React Router
 - [:book: Bookmark this link](https://reacttraining.com/react-router/web/api/), which include the API-description for React Router V4, which we will be using
 
 ### Exercises
@@ -18,7 +18,7 @@
 
 - [:tv: JSON Web Tokens (first 24 min ONLY)](https://www.youtube.com/watch?v=oXxbB5kv9OA)
 - [:tv: Passords hashing with bcrypt (7 min.)](https://www.youtube.com/watch?v=O6cmuiTBZVs) (still one of the coolest educational videos ever made ;-)
-- Skim this article about [:book: CORS (10-15 min.)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [:book: CORS (Skim 10-15 min.)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 
 ### Exercises
