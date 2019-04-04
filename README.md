@@ -17,8 +17,8 @@
 ### What to do before this lesson:
 
 - [:tv: JSON Web Tokens (first 24 min ONLY)](https://www.youtube.com/watch?v=oXxbB5kv9OA)
-- [Passords hashing with bcrypt (7 min.)](https://www.youtube.com/watch?v=O6cmuiTBZVs) (still one of the coolest educational videos ever made ;-)
-- Skim this article about [CORS (10-15 min.)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+- [:tv: Passords hashing with bcrypt (7 min.)](https://www.youtube.com/watch?v=O6cmuiTBZVs) (still one of the coolest educational videos ever made ;-)
+- Skim this article about [:book: CORS (10-15 min.)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 
 
 ### Exercises
@@ -34,13 +34,13 @@
 
 ### What to do before this lesson
 Make sure to watch these videos before todays lecture:
-- [Comparing (some) of the alternatives technologies for "crossplatform" development (30 min.)](https://www.youtube.com/watch?v=bnYJRYFsrSw)
-- [Expo Explained in 2 Minutes (2 min.)](https://www.youtube.com/watch?v=IQI9aUlouMI)
+- [:tv: Comparing (some) of the alternatives technologies for "crossplatform" development (30 min.)](https://www.youtube.com/watch?v=bnYJRYFsrSw)
+- [:tv: Expo Explained in 2 Minutes (2 min.)](https://www.youtube.com/watch?v=IQI9aUlouMI)
 
 Readings and references for Expo and React Native
-- [Facebook, quick intro to React Native (5 min.)](https://facebook.github.io/react-native/)
-- [Main resource for Expo (Skim (15 min.) and bookmark](https://docs.expo.io/versions/latest/index.html)
-- [Main resource for React Native (Skim only)](https://facebook.github.io/react-native/docs/getting-started.html)
+- [:book: Facebook, quick intro to React Native (5 min.)](https://facebook.github.io/react-native/)
+- [:book: Main resource for Expo (Skim (15 min.) and bookmark](https://docs.expo.io/versions/latest/index.html)
+- [:book: Main resource for React Native (Skim only)](https://facebook.github.io/react-native/docs/getting-started.html)
 
 ### Exercises
 [React Native](https://docs.google.com/document/d/1InOKIB8hLsjKCtjrqkgtQIDHDorMEvpE_j12MMvU1Vk/edit?usp=sharing)
