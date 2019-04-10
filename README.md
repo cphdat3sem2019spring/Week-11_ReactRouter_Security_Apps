@@ -16,6 +16,7 @@
 
 ### What to do before this lesson:
 
+- [Install the required software BEFORE the lesson](https://docs.expo.io/versions/latest/introduction/installation/)
 - [:tv: JSON Web Tokens (first 24 min ONLY)](https://www.youtube.com/watch?v=oXxbB5kv9OA)
 - [:tv: Passords hashing with bcrypt (7 min.)](https://www.youtube.com/watch?v=O6cmuiTBZVs) (still one of the coolest educational videos ever made ;-)
 - [:book: CORS (Skim 10-15 min.)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
