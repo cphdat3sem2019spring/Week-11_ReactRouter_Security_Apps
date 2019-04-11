@@ -60,10 +60,9 @@ For the rest of the day this is the plan:
 - If not, I will as promised repeat the lecture related to Futures/Callables from 10.00 - 12.00. See what you need to read, and the exercises in the plan for last week.
 
 ## Friday - exercises
-TBD
-<!--
-[Study Point Exercises](https://docs.google.com/document/d/1YmQ9T4qwbrGDYpPazSgN9lH792UVZZRqccTpP_vY7_o/edit?usp=sharing)
--->
+
+[Study Point Exercises](https://docs.google.com/document/d/1qJQ-hY7DltYEvg8ND3TZUlUZZ8AXi38XzOoiVAfGxbo/edit?usp=sharing)
+
 
 # Week-3  (CA-3)
 TBD
