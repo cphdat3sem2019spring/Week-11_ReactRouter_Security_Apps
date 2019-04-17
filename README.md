@@ -65,7 +65,5 @@ For the rest of the day this is the plan:
 
 
 # Week-3  (CA-3)
-TBD
-<!--
 [CA-3](https://docs.google.com/document/d/1GZvVK-dGHjyP30BULhtRz9EFYd9MOzdtChoV6X_mRnQ/edit?usp=sharing)
--->
+
